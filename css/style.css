@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: var(--azul);
+    color: var(--branco);
+    text-align: center;
+}
+
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
